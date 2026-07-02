@@ -2,7 +2,7 @@
 
 PROJET WEB:
 
-- avoir un minimum de point pour la reserver(chaque salle a un nb pts min).
+- avoir un minimum de point pour la reserver(chaque salle a un nb pts min).   
    
 
 
