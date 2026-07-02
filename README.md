@@ -3,7 +3,7 @@
 PROJET WEB:
 
 - avoir un minimum de point pour la reserver(chaque salle a un nb pts min).
-
+   
 
 
 Notre but est de créer une plate-forme de reservation de salle par des utilisateurs.
