@@ -6,7 +6,7 @@ PROJET WEB:
    
 
 
-Notre but est de créer une plate-forme de reservation de salle par des utilisateurs.   
+Notre but est de créer une plate-forme de reservation de salle par des utilisateurs.      
 et chaque salle contienne des ressources differents des autres et aussi ella ont des consition de reservation.   
 
 chaque salle a un nb max d'inviter dont un nb d'organisateur.    
